@@ -12,7 +12,7 @@ AtlasConnect sends messages with the **AtlasConnect Message Packet (ACMP)** and 
   1. `atlasconnect_server`: The server program, has a built-in command line interpreter (100 USERS MAX).
   2. `atlasconnect_client`: The client program, nothing special, asks for name before starting conversations.
 
-## ___ How to use the server command line interpreter? ___
+## <u> How to use the server command line interpreter? </u>
 **SIMPLE**, command list below:
 - `/clients`: Lists clients with IDs and names.
 - `/kick username` (8 chars max): Kicks a client.
