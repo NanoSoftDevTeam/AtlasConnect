@@ -21,3 +21,6 @@ AtlasConnect sends messages with the **AtlasConnect Message Packet (ACMP)** and 
 
 ## **Features:**
   1. Uses SQLite3 to save (TEMP) user data.
+
+## ***REMEMBER***
+Its better to use `chmod u+x atlasconnect_client && chmod u+x atlasconnect_client` to ensure that it works
